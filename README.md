@@ -1,8 +1,8 @@
 # AFWERX-Mobile-ProgrammingCapstone
 
-## Configuring Expo for Linux use
+## Configuring Expo
 
-It is possible to run Expo in Linux!  Here are the setup steps:
+It is possible to run Expo!  Here are the setup steps:
 
 * Change to the project root folder, i.e. ~/AFWERX-Mobile-ProgrammingCapstone/MTR_Scheduler_Mobile
 * Run 'npm install'
